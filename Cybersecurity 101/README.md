@@ -1,3 +1,4 @@
+```text
 Cybersecurity_TryHackMe/
 └── Cybersecurity 101/
     ├── **README.md**  
@@ -18,3 +19,4 @@ Cybersecurity_TryHackMe/
     └── 05_Cryptography_OWASP/
         ├── Cryptography.md
         └── OWASP_Top_10_(2025).md
+```
