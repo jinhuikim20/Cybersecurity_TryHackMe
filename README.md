@@ -8,6 +8,6 @@ Welcome! This repository documents my hands-on technical training, laboratory ex
 
 | Pathway / Section | Status | Key Skills Documented |
 | :--- | :--- | :--- |
-| 📁 **Cybersecurity 101** | 🔄 Course Completed, Documentation in Progress | Networking basics, Linux fundamentals, Security principles |
-| 📁 **SOC Level 1** | ⏳ In Progress | Log analysis, SIEM tools, Incident response |
-| 📁 **Challenges** | ⏳ 1 Completed | CTFs, network traffic analysis (PCAP parsing) |
+| 📁 **01_Cybersecurity_101** | 🔄 Course Completed, Documentation in Progress | Networking basics, Linux fundamentals, Security principles |
+| 📁 **02_SOC_Level_1** | ⏳ In Progress | Log analysis, SIEM tools, Incident response |
+| 📁 **99_Challenges** | ⏳ 1 Completed | CTFs, network traffic analysis (PCAP parsing) |
